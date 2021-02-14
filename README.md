@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Natalia
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning in it-school
+- 💞️ I’m looking to collaborate on it-corporation
+- 📫 How to reach me: orsha2015@tut.by
